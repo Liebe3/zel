@@ -8,7 +8,7 @@ import VirtualHug from './components/VirtualHug';
 function App() {
   return (
     // Add basename here to match the GitHub Pages deployment path
-    <Router>
+    <Router basename='/zel'>
       <Routes>
         <Route path="/" element={<UserName />} />
         <Route path="/letter" element={<LetterForZel />} />
