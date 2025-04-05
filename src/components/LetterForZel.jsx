@@ -17,27 +17,31 @@ const LetterForZel = () => {
           <div className="card shadow-lg border-0">
             <div className="card-body p-5">
               <h1 className="text-center mb-4">
-                Happy Valentine's Day, Zelitot! 💌
+                Happy 23rd Birthday Berooo!!🎂
               </h1>
               <div className="letter-content">
                 <p>
-                  Hi, Zelitot! Konti na lang, gagraduate ka na! 🎓 Keep pushing
-                  forward, stay focused, and always aim for honors you’re almost
-                  at the finish line.
+                  On your special day, I want to wish you the happiest of
+                  birthdays! 🎉 May this year bring you endless joy, success,
+                  and wonderful adventures.
                 </p>
                 <p>
-                  As you get closer to this big milestone, choose a course or
-                  program that truly excites and inspires you. With your
-                  dedication and hard work, success will surely follow.
+                  I know we dont know each other that well yet, but youre
+                  genuinely such a kind person. Dont ever give up on chasing
+                  your dreams youre meant for amazing things✨ heheehehhe.
+                  Dont stress yourself too much sa work mo or anything, okay? You
+                  deserve peace and happiness.
                 </p>
                 <p>
-                  Advance congratulations sa graduation mo! Super proud of
-                  everything you’ve achieved so far, and there’s no doubt you’ll
-                  accomplish even more.
+                Happy birthday piiii 🥺💖
+                Sorry again for the last minute cancel ng plan 🙈 Ill make it up to you later ^^!
                 </p>
-                <p className="fw-bold">So proud of you MF!</p>
-                <button className="btn btn-success" onClick={hanldeContinue}>
-                  Continue
+                <p className="fw-bold">Have the most amazing birthday Berooooo!🎈</p>
+                <button
+                  className="btn btn-success mt-4"
+                  onClick={hanldeContinue}
+                >
+                  Continue to your surprise
                 </button>
               </div>
             </div>

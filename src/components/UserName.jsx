@@ -29,27 +29,27 @@ const UserName = () => {
         }`}
       >
         <h1 className="text-4xl md:text-6xl font-bold text-white mb-6 animate-bounce">
-          Belated Happy Valentine's, Zelitot
+          Happy 23rd Birthday Berooo!
           <FaHeart
             className="inline-block ml-2 text-red-500 animate-pulse"
             size={48}
           />
         </h1>
         <p className="text-xl md:text-2xl text-pink-100 mb-8">
-          Congratulations on consistently being an honor student!
+          Wishing you an amazing birthday filled with joy and laughter! 🎉
         </p>
         <div className="space-y-4">
           <button
             className="bg-white text-pink-500 px-6 py-3 m-2 rounded-full font-semibold text-lg hover:bg-pink-100 transition-colors duration-300"
             onClick={handleVirtualuHug}
           >
-            Hug for you
+            Birthday Hug
           </button>
           <button
             className="bg-pink-500 text-white px-6 py-3 m-2 rounded-full font-semibold text-lg hover:bg-pink-600 transition-colors duration-300"
             onClick={handleLeteer}
           >
-            Letter for you
+            Birthday Message
           </button>
         </div>
       </div>

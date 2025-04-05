@@ -7,7 +7,7 @@ const Flower = () => {
     <div className="flowers-container">
       <div className="flowers-card">
         <h1 className="flowers-title">
-          Hello Zelitot! Here's a tulips flower just for you!!!{" "}
+          Happy 23rd Birthday! Here's a special birthday flowers for you!
           <IoMdFlower className="flower-icon" />
         </h1>
         <div className="image-container">

@@ -7,9 +7,9 @@ const VirtualHug = () => {
     <div className="min-h-screen bg-gradient-to-r from-pink-200 to-purple-200 flex flex-col items-center justify-center p-4">
       <div className="bg-white rounded-lg shadow-xl p-8 max-w-md w-full text-center">
         <h1 className="text-3xl md:text-4xl font-bold text-pink-600 mb-6">
-          Hi, Zelitot
+          Birthday Hugs!
           <FaHeart
-            className="inline-block ml-2 text-red-500"
+            className="inline-block ml-2 text-red-500 animate-pulse"
             size={40}
           />
         </h1>
